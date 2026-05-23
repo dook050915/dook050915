@@ -10,7 +10,7 @@
 - **Deep Learning for PHY** — Transformer / Diffusion 在物理层信道编解码的应用
 - **6G Air Interface** — 端到端可学习通信系统
 
-> 当前主线：复现 DeepSC (Xie et al., IEEE TSP 2021) 并扩展到瑞利衰落信道下的鲁棒性研究
+> 🚀 **当前主线**：[semantic-communication-cuc](https://github.com/dook050915/semantic-communication-cuc) — 复现 DeepSC (Xie et al., IEEE TSP 2021) 并扩展到瑞利衰落信道下的鲁棒性研究
 
 #### 📚 Background
 
@@ -34,4 +34,4 @@ DL 实践：Seq2Seq · Attention · Transformer
 
 ---
 
-<sub>This profile is under active construction (May 2026). Main research repo coming soon.</sub>
+<sub>Profile last updated: May 2026 · 持续更新中</sub>
